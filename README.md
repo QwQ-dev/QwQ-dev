@@ -5,10 +5,9 @@
 Eager to learn and explore new technologies. Currently pre-admitted and looking forward to starting my studies.
 
 - ❤️  I have a loving partner, and I'm deeply fond of her.
-- ⚙️  Daily: `.java`, `.rs`, `.sql`, `.json`, `.mongo`, **translation tasks**
-- 📚  Learning: **Kubernetes**, **Docker**, **Bukkit**, **C#**, **algorithms**
+- ⚙️  Daily: `.java`, `.rs`, `.sql`, `.json`, `.mongo`, `.groovy`, **translation tasks**
+- 📚  Learning: **Kubernetes**, **Docker**, **Bukkit**, **Groovy**, **algorithms**
 - 💅  Passionate about: **clean code**, **software architecture**, **open-source contributions**
-- 🚀  Interested in: **cloud computing**, **AI & ML**, **cryptography**
 - 🎮  Fan of the game `The Song of Saya`
 
 💬 `ping` me about **software development**, **java**, **rust**, **design thinking**, **cryptography**

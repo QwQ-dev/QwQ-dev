@@ -2,7 +2,7 @@
 
 #### Software Development Student by day ☼ and Passionate Developer by night ☾
 
-Eager to learn and explore new technologies. Currently pre-admitted and looking forward to starting my studies.
+Eager to learn and explore new technologies. Strive to reach new heights in the field of technology.
 
 - ❤️  I have a loving partner, and I'm deeply fond of her
 - ⚙️  Daily: `.java`, `.scala`, `.rs`, **translation tasks**

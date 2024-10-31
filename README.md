@@ -1,6 +1,7 @@
 ### Hello there 👋
 
 #### Software Development Student by day ☼ and Passionate Developer by night ☾
+#### Please feel free to call me *NaerQAQ / 2000000 / QwQ-dev*; these are all my names ❤︎
 
 Eager to learn and explore new technologies. Strive to reach new heights in the field of technology.
 

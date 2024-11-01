@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 #### Software Development Student by day ☼ and Passionate Developer by night ☾
-#### Please feel free to call me *NaerQAQ / 2000000 / QwQ-dev / Psyche*; these are all my names ❤︎
+#### Please feel free to call me `NaerQAQ / 2000000 / QwQ-dev / Psyche`, these are all my names ❤︎
 
 <br>
 

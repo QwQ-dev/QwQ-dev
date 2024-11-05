@@ -9,7 +9,7 @@ Eager to learn and explore new technologies. Strive to reach new heights in the 
 
 - ❤️  I have a loving partner, and I'm deeply fond of her
 - ⚙️  Daily: `.java`, `.scala`, `.rs`, **translation tasks**
-- 📚  Learning: **Spring Framework**, **Spring Boot**, **JUC**, **Scala**, **Java**, **Software Reverse Engineering**
+- 📚  Learning: **Rust**, **JUC**, **Scala**, **Java**, **ASM**, **Software Reverse Engineering**
 - 💅  Passionate about: **clean code**, **software architecture**, **open-source contributions**
 - 🎮  Fan of the game `The Song of Saya`
 - 🛠️  Working for [HZ Shop](https://hzmod.ooo/), providing translation and configuration work

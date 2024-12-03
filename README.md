@@ -10,7 +10,7 @@ Eager to learn and explore new technologies. Strive to reach new heights in the 
 - 📚  Learning: **Rust**, **JUC**, **Scala**, **Java**, **ASM**, **Software Reverse Engineering**
 - 💅  Passionate about: **clean code**, **software architecture**, **open-source contributions**
 - 🎮  Fan of the game `The Song of Saya`
-- 🛠️  Working for [HZ Shop](https://hzmod.ooo/), providing translation and configuration work
+- 🛠️  Owner of [Cloud Habitat Shop](https://qwqdev.shop/), Administrator of [HZ Shop](https://hzmod.ooo/)
 
 💬 `ping` me about **software development**, **java**, **scala**, **design thinking**, **cryptography**
 

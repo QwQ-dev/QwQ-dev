@@ -2,16 +2,14 @@
 
 #### Software Development Student by day ☼ and Passionate Developer by night ☾
 
-Eager to learn and explore new technologies. Strive to reach new heights in the field of technology.
+Walking a delicate path, resisting the quiet pull of my own darkness. Each day is a quiet defiance, a whisper of hope in the face of inner chaos...
 
-- ❤️  I have a loving partner, and I'm deeply fond of her
+- ❤️  Anchored by a partner who sees the light in me, even when I can’t.
 - 🥼  Name: `NaerQAQ` / `2000000` / `QwQ-dev` / `Psyche`, these are all my names
-- ⚙️  Daily: `.java`, `.scala`, `.rs`, **translation tasks**
-- 📚  Learning: **Rust**, **JUC**, **Scala**, **Java**, **ASM**, **Software Reverse Engineering**
-- 💅  Passionate about: **clean code**, **software architecture**, **open-source contributions**
+- 🧠  Penning lines of code I often dismiss as unworthy, yet somehow, they feel like tiny steps forward.
 - 🎮  Fan of the game `The Song of Saya`
-- 🛠️  Owner of [Cloud Habitat Shop](https://qwqdev.shop/), Administrator of [HZ Shop](https://hzmod.ooo/)
+- 🛠️  Owner of [Cloud Habitat Shop](https://qwqdev.shop/), Administrator of [HZ Shop](https://hzmod.ooo/), Working on LegacyLands(https://github.com/LegacyLands) for a long time.
 
-💬 `ping` me about **software development**, **java**, **scala**, **design thinking**, **cryptography**
+💬 `ping` me about **software development**, **java**, **scala**, **design thinking**, **cryptography**, **functional programming**
 
-Feel free to reach out for collaboration, discussions, or just a friendly chat about technology!
+If you’re passing through, let’s talk—about code, life, or the subtle beauty of pressing on.

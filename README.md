@@ -10,6 +10,6 @@ Walking a delicate path, resisting the quiet pull of my own darkness. Each day i
 - 🎮  Fan of the game `The Song of Saya`
 - 🛠️  Owner of [Cloud Habitat Shop](https://qwqdev.shop/), Administrator of [HZ Shop](https://hzmod.ooo/), Working on [LegacyLands](https://github.com/LegacyLands) for a long time.
 
-💬 `ping` me about **software development**, **java**, **scala**, **design thinking**, **cryptography**, **functional programming**
+💬 `ping` me about **software development**, **java**, **elixir**, **design thinking**, **cryptography**, **functional programming**
 
 If you’re passing through, let’s talk—about code, life, or the subtle beauty of pressing on.

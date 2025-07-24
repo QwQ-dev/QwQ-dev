@@ -6,7 +6,7 @@ Software Development Student ☼ | Constantly learning and evolving, pushing the
 
 ---
 
-- ❤️ Grateful for a supportive partner who inspires me to be my best self.
+- ❤️ Grateful to a special someone for taking me in and being an invaluable presence in my life.
 - 🥼 Aliases: `NaerQAQ` / `2000000` / `QwQ-dev` / `Psyche`
 - 🛠️ Proud Owner of [Cloud Habitat Shop](https://qwqdev.shop/), Administrator of [HZ Shop](https://hzmod.ooo/), and dedicated contributor to [LegacyLands](https://github.com/LegacyLands).
 - 🎮 Captivated by the unique and unsettling beauty of the visual novel, `The Song of Saya`.

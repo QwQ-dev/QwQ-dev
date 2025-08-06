@@ -35,11 +35,11 @@ Software Development Student ☼ | Constantly learning and evolving, pushing the
 [![Concurrency](https://img.shields.io/badge/Concurrency-orange?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
 [![Microservices](https://img.shields.io/badge/Microservices-teal?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Microservices)
 [![CI/CD](https://img.shields.io/badge/CI/CD-blueviolet?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/CI/CD)
-[![Minecraft Plugin Development](https://img.shields.io/badge/Minecraft%20Plugin%20Development-30A74B?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.spigotmc.org/wiki/plugin-development/)
+[![Minecraft Plugin Development](https://img.shields.io/badge/Minecraft%20Plugin%20Development-30A74B?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.spigotmc.org/wiki/spigot/)
 [![SpigotMC](https://img.shields.io/badge/SpigotMC-E46F25?style=for-the-badge&logo=spigotmc&logoColor=white)](https://www.spigotmc.org/)
 [![PaperMC](https://img.shields.io/badge/PaperMC-F44336?style=for-the-badge&logoColor=white)](https://papermc.io/)
 [![Velocity](https://img.shields.io/badge/Velocity-00A9FF?style=for-the-badge&logoColor=white)](https://velocitypowered.com/)
-[![BungeeCord](https://img.shields.io/badge/BungeeCord-7C1BB2?style=for-the-badge&logoColor=white)](https://www.spigotmc.org/resources/bungeecord.392/)
+[![BungeeCord](https://img.shields.io/badge/BungeeCord-7C1BB2?style=for-the-badge&logoColor=white)](https://www.spigotmc.org/wiki/bungeecord/)
 
 ---
 

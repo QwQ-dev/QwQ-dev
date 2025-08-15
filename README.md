@@ -8,7 +8,7 @@ Software Development Student ☼ | Constantly learning and evolving, pushing the
 
 - ❤️ Grateful to a special someone for taking me in and being an invaluable presence in my life.
 - 🥼 Aliases: `NaerQAQ` / `2000000` / `QwQ-dev` / `Psyche`
-- 🛠️ Proud Owner of [Cloud Habitat Shop](https://qwqdev.shop/), Administrator of [HZ Shop](https://hzmod.ooo/), and dedicated contributor to [LegacyLands](https://github.com/LegacyLands).
+- 🛠️ Owner of [HolyKits/Atorant Network](https://www.bilibili.com/video/BV1gF411c7o7/), Architect at [LegacyLands](https://www.legacylands.cn/), and Administrator/Wiki Contributor for [HZ Shop](https://hzmod.ooo/).
 - 🎮 Captivated by the unique and unsettling beauty of the visual novel, `The Song of Saya`.
 
 ---

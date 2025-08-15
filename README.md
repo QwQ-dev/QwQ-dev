@@ -2,7 +2,7 @@
 
 **19yo Freshman 👨‍💻 | Bipolar and passionate about open source.** ✨
 
-Software Development Student ☼ | Constantly learning and evolving, pushing the boundaries of what's possible.
+Software Development Student ☼ | Constantly learning and evolving, pushing the boundaries of what's possible. I'm a firm believer in **vibe coding** – letting intuition and passion guide the development process, augmented by the power of AI. 💡
 
 ---
 
@@ -14,6 +14,8 @@ Software Development Student ☼ | Constantly learning and evolving, pushing the
 ---
 
 **Tech Stack & Interests:**
+
+I'm fascinated by how cutting-edge technologies are reshaping the future of software development, especially when it comes to **AI-powered tools** and their impact on developer workflows.
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
@@ -43,6 +45,6 @@ Software Development Student ☼ | Constantly learning and evolving, pushing the
 
 ---
 
-💬 Let's connect about **software development**, **functional programming**, **distributed systems**, or anything that sparks your curiosity! Feel free to reach out and share your thoughts. Let's learn and grow together! ✨
+💬 Let's connect about **software development**, **functional programming**, **distributed systems**, **AI tools**, or anything that sparks your curiosity! Feel free to reach out and share your thoughts. Let's learn and grow together! ✨
 
 ---

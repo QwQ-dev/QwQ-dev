@@ -1,51 +1,51 @@
-### Hello there 👋
+### 📺 root@qwqdev:~#
 
-**19yo Freshman 👨‍💻 | Passionate about open source.** ✨
+```bash
+root@qwqdev:~# ./sys_status_report.sh --full-stack --include-hidden
 
-Software Development Student ☼ | Constantly learning and evolving, pushing the boundaries of what's possible. I'm a firm believer in **vibe coding** – letting intuition and passion guide the development process, augmented by the power of AI. 💡
+================================================================================
+ QWQ_LAB_SOC   |  User: qwqdev (uid=2000000)  |  Kernel: 6.8.9-custom-soc
+ Uptime: 19 years, 172 days, 15:22  |  Load average: 8.05, 7.80, 7.50
+================================================================================
 
----
+[ CPU / SKILLS - OCTA CORE DETECTED ]
+%Cpu0  : 100.0 us  [####################] Rust / Linux SoC / Kernel Hacking
+%Cpu1  :  98.5 us  [###################.] Java / Bukkit / Framework Design
+%Cpu2  :  95.0 us  [###################.] Elixir / Scala / Functional Prog.
+%Cpu3  :  90.0 us  [##################..] Distributed Systems / Microservices
+%Cpu4  :  85.0 us  [#################...] System Design / Cryptography
+%Cpu5  :  70.0 us  [##############......] Docker / K8s / CI/CD Infra
+%Cpu6  :  60.0 us  [############........] PostgreSQL / Redis / Data Structures
+%Cpu7  :  40.0 us  [########............] AI-Assisted Tooling / Efficiency
 
-- ⚙️ I'm currently delving into some interesting Linux SoC projects.
-- 🥼 Aliases: `NaerQAQ` / `2000000` / `QwQ-dev` / `Psyche`
-- 🛠️ Owner of [HolyKits/Atorant Network](https://www.bilibili.com/video/BV1gF411c7o7/), Architect at [LegacyLands](https://www.legacylands.cn/), and Administrator/Wiki Contributor for [HZ Shop](https://hzmod.ooo/).
-- 🎮 Captivated by the unique and unsettling beauty of the visual novel, `The Song of Saya`.
+[ MEMORY / CONTEXT ]
+MiB Mem :  64000.0 total,  58400.0 used,   5600.0 free  [ Engineering Patterns  ]
+MiB Swap:  32000.0 total,   8000.0 used,  24000.0 free  [ "Song of Saya" Cache  ]
 
----
+--------------------------------------------------------------------------------
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+--------------------------------------------------------------------------------
+ 2000 qwqdev    20   0   32.0g  16.0g   512m R 100.0  25.0  19y172d ./craftsmanship --with-ai-assist
+ 3050 qwqdev    20   0   12.0g   6.0g   256m S  85.0   9.3  502:10 java -jar framework_core.jar
+ 4022 qwqdev    20   0    8.0g   4.0g   128m S  70.0   6.2  330:45 beam.smp --elixir --distributed
+ 2333 qwqdev    10   0    256m    32m     8m S   4.5   0.1   10:05 ./dg-lab-client --remote --shock=auto
+    1 root      rt   0    128m    64m     4m S   1.0   0.1   00:01 [k_soc_driver]
+    2 root      20   0     64m    32m     2m S   0.5   0.0   00:15 [holykits_net]
 
-**Tech Stack & Interests:**
+[ FILESYSTEM / PROJECTS ]
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/nvme0n1p1   1.0T  900G  100G  90% /mnt/projects/HolyKits_Atorant
+/dev/nvme0n1p2   500G  450G   50G  90% /mnt/projects/LegacyLands
+/dev/sda1        256G  120G  136G  46% /mnt/wiki/HZ_Shop_Docs
 
-I'm fascinated by how cutting-edge technologies are reshaping the future of software development, especially when it comes to **AI-powered tools** and their impact on developer workflows.
+[ CONNECTIONS ]
+Proto Recv-Q Send-Q Local Address           Foreign Address         State
+tcp        0      0 0.0.0.0:25565           0.0.0.0:*               LISTEN (Spigot)
+tcp        0      0 127.0.0.1:4369          0.0.0.0:*               LISTEN (EPMD)
+tcp        0      0 192.168.1.x:53120       ws.dglab.online:443     ESTABLISHED
+udp        0      0 0.0.0.0:51820           0.0.0.0:*               Active (WireGuard)
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Functional Programming](https://img.shields.io/badge/Functional%20Programming-blue?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Functional_programming)
-[![Cryptography](https://img.shields.io/badge/Cryptography-orange?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Cryptography)
-[![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-green?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Distributed_computing)
-[![System Design](https://img.shields.io/badge/System%20Design-purple?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/System_design)
-[![Concurrency](https://img.shields.io/badge/Concurrency-orange?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
-[![Microservices](https://img.shields.io/badge/Microservices-teal?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/Microservices)
-[![CI/CD](https://img.shields.io/badge/CI/CD-blueviolet?style=for-the-badge&logoColor=white)](https://en.wikipedia.org/wiki/CI/CD)
-[![Minecraft Plugin Development](https://img.shields.io/badge/Minecraft%20Plugin%20Development-30A74B?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.spigotmc.org/wiki/spigot/)
-[![SpigotMC](https://img.shields.io/badge/SpigotMC-E46F25?style=for-the-badge&logo=spigotmc&logoColor=white)](https://www.spigotmc.org/)
-[![PaperMC](https://img.shields.io/badge/PaperMC-F44336?style=for-the-badge&logoColor=white)](https://papermc.io/)
-[![Velocity](https://img.shields.io/badge/Velocity-00A9FF?style=for-the-badge&logoColor=white)](https://velocitypowered.com/)
-[![BungeeCord](https://img.shields.io/badge/BungeeCord-7C1BB2?style=for-the-badge&logoColor=white)](https://www.spigotmc.org/wiki/bungeecord/)
+root@qwqdev:~# echo "Status: Passionate about hand-crafted code, augmented by AI."
+Status: Passionate about hand-crafted code, augmented by AI.
 
----
-
-💬 Let's connect about **software development**, **functional programming**, **distributed systems**, **AI tools**, or anything that sparks your curiosity! Feel free to reach out and share your thoughts. Let's learn and grow together! ✨
-
----
-
+root@qwqdev:~# _

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8" />
+<title>README Preview</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown-dark.min.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@11/styles/github-dark.min.css" />
+<style>
+  body { background: #0d1117; margin: 0; }
+  .wrap { max-width: 1012px; margin: 32px auto; padding: 0 16px; }
+  .box { border: 1px solid #30363d; border-radius: 6px; padding: 32px; }
+  .head { color: #8b949e; font: 12px ui-monospace, monospace; margin-bottom: 8px; }
+  .markdown-body pre code.hljs { background: transparent; padding: 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="head">qwqdev / README.md &nbsp;·&nbsp; <span id="status">loading…</span></div>
+  <article class="box markdown-body" id="content"></article>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/highlight.js@11/highlight.min.js"></script>
+<script>
+  let last = null;
+
+  async function render() {
+    const md = await (await fetch('/README.md', { cache: 'no-store' })).text();
+    document.getElementById('content').innerHTML = marked.parse(md, { gfm: true });
+    document.querySelectorAll('pre code').forEach(el => hljs.highlightElement(el));
+    document.getElementById('status').textContent = 'rendered ' + new Date().toLocaleTimeString();
+  }
+
+  // 轮询文件修改时间，保存 README 后自动刷新
+  async function poll() {
+    try {
+      const m = await (await fetch('/__mtime', { cache: 'no-store' })).text();
+      if (m !== last) { last = m; await render(); }
+    } catch (e) {
+      document.getElementById('status').textContent = 'server offline';
+    }
+    setTimeout(poll, 1000);
+  }
+  poll();
+</script>
+</body>
+</html>
